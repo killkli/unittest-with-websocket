@@ -1,0 +1,25 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn.lock
+pids/
+logs/
+*.local
+*.seed.db
+*.env.*.local
+lib-covage/
+coverage/
+dist/
+
+# TypeScript
+tsc-output/
+**.ts~
+**.ts.map
+
+# Operating system
+.vscode/
+.idea/
+.eslintrc.js
+Thumbs.db
+*.log
